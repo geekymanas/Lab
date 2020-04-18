@@ -1,0 +1,11 @@
+1. WAP to construct a Graph using linked representation and implement the following:
+a. Create an edge between two nodes.
+b. Remove an edge between two nodes.
+c. Degree of a particular node.
+d. Create a new node.
+e. Remove an existing node.
+
+2. WAP to construct a Minimum Spanning Tree using
+a. Krushkal’s Algorithm.
+b. Prim’s Algorithm.
+

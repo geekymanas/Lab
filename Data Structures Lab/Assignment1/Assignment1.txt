@@ -1,0 +1,13 @@
+1. WAP to implement Magic Square.
+
+2. WAP to implement Call by Value and Call by Reference mechanisms.
+
+3. WAP to implement three different ways to swap two variables without using a third variable.
+
+4. WAP to implement the following programs using recursion.
+a. Factorial
+b. Fibonacci Series
+c. Greatest Common Divisor
+d. Linear Search
+e. Binary Search
+f. Tower of Hanoi

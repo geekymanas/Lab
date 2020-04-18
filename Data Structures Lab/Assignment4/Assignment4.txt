@@ -1,0 +1,5 @@
+1. WAP to implement a stack using queues.
+2. WAP to implement a queue using stacks.
+3. WAP to implement n stacks in a single array.
+4. WAP to implement n queues in a single array.
+

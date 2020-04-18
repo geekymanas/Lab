@@ -1,0 +1,17 @@
+1. WAP to implement Stack.
+a. Push an element onto a stack.
+b. Pop the stack.
+c. Display the contents of the stack.
+
+2. WAP to convert the following expressions:
+a. Infix to Postfix.
+b. Infix to Prefix.
+c. Postfix to Infix.
+d. Postfix to Prefix.
+e. Prefix to Infix.
+f. Prefix to Postfix.
+
+3. WAP to evaluate a postfix expression.
+
+4. WAP to implement two stacks in a single array.
+

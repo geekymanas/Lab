@@ -1,0 +1,17 @@
+. WAP to implement Linked List.
+a. Create a linked list.
+b. Insert an element at the start of the linked list.
+c. Insert an element at the end of the linked list.
+d. Insert an element before an existing element whose information is x in a linked list.
+e. Insert an element after an existing element whose information is x in a linked list.
+f. Delete the first element of the linked list.
+g. Delete the last element of the linked list.
+h. Delete the element whose information is x from a linked list.
+i. Display the contents of the linked list.
+2. WAP to implement Circular Linked List.
+3. WAP to implement Header Linked List.
+4. WAP to implement Header based Circular Linked List.
+5. WAP to implement Doubly Linked List.
+6. WAP to implement Circular Doubly Linked List.
+7. WAP to implement Header Doubly Linked List.
+8. WAP to implement Header based Circular Doubly Linked List.

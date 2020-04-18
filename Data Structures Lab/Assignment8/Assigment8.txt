@@ -1,0 +1,6 @@
+1. WAP to implement Sparse Matrix using
+a. Triplet representation.
+b. Multi-linked representation.
+2. WAP to implement the following for both the representations.
+a. Delete the i-th row from the Sparse Matrix.
+b. Swap the i-th row and j-th row of the Sparse Matrix.

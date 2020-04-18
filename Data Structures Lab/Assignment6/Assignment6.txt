@@ -1,0 +1,7 @@
+1. WAP to find the length of the Linked List using recursion.
+2. WAP to concatenate two Linked Lists.
+3. WAP to delete duplicate elements from a sorted Linked List.
+4. WAP to delete every alternate element of the Linked List.
+5. WAP to check whether the Linked List is a palindrome or not.
+6. WAP to reverse a Linked List.
+7. WAP to merge two sorted lists.

@@ -1,0 +1,8 @@
+1. WAP to implement Threaded Binary Tree (TBT).
+a. Insert a node into the TBT.
+b. Delete a node from the TBT.
+c. Display the preorder traversal of the TBT.
+d. Display the inorder traversal of the TBT.
+e. Display the postorder traversal of the TBT.
+2. WAP to construct an Expression Tree (Heterogeneous Tree) from postfix expression.
+3. WAP to implement Huffman Tree.

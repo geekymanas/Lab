@@ -1,0 +1,10 @@
+1. WAP to implement the following:
+a. Bubble sort.
+b. Selection sort.
+c. Insertion sort.
+d. Merge sort.
+e. Quick sort.
+f. Heap sort.
+g. Shell sort.
+h. Cook- Kim sort.
+i. Topological sort.

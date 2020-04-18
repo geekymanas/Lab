@@ -1,0 +1,16 @@
+1. WAP to implement Binary Search Tree (BST).
+a. Insert a node into the BST.
+b. Delete a node from the BST.
+c. Display the preorder traversal of the BST.
+d. Display the inorder traversal of the BST.
+e. Display the postorder traversal of the BST.
+2. WAP to construct a binary tree given
+a. Inorder and Postorder traversals.
+b. Inorder and Preorder traversals.
+3. WAP to implement the following:
+a. Count the number of nodes in a binary tree.
+b. Count the number of leaf nodes in a binary tree.
+c. Count the number of non-leaf nodes in a binary tree.
+d. Return the height of the binary tree.
+e. Check whether the tree is a strict binary tree or not.
+f. Check whether the two trees are equal or not.

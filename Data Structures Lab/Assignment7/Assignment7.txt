@@ -1,0 +1,5 @@
+1. WAP to split the Linked List at the middle and merge the second half as the first half.
+2. WAP to implement polynomial addition using Linked List.
+3. WAP to add two large numbers using Linked List.
+4. WAP to implement Stack using Linked List.
+5. WAP to implement Queue using Linked List.
